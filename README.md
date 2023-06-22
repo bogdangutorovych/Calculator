@@ -13,18 +13,23 @@ This is a calculator microservice that performs addition and subtraction operati
 
    ```bash
    git clone https://github.com/bogdangutorovych/Calculator.git
+
+2. Use master branch:
+
+   ```bash
+   git checkout master
    
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
    ```bash
    cd calculator
 
-3. Build the project using Maven:
+4. Build the project using Maven:
 
    ```bash
    mvn clean package
 
-4. Run the microservice:
+5. Run the microservice:
 
    ```bash
    java -jar target/calculator-0.0.1-SNAPSHOT.jar
