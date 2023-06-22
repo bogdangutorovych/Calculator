@@ -24,7 +24,7 @@
 
         <!-- Operation Trace API -->
         <dependency>
-            <groupId>com.serviguidetech</groupId>
+            <groupId>io.corp.calculator</groupId>
             <artifactId>tracer</artifactId>
             <version>1.0.0</version>
             <scope>system</scope>
