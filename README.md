@@ -32,7 +32,7 @@ This is a calculator microservice that performs addition and subtraction operati
 5. Run the microservice:
 
    ```bash
-   java -jar target/calculator-0.0.1-SNAPSHOT.jar
+   mvn spring-boot:run
    
 ## API Endpoints
 
