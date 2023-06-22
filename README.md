@@ -14,15 +14,15 @@ This is a calculator microservice that performs addition and subtraction operati
    ```bash
    git clone https://github.com/bogdangutorovych/Calculator.git
 
-2. Use master branch:
-
-   ```bash
-   git checkout master
-   
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 
    ```bash
    cd calculator
+
+3. Use master branch:
+
+   ```bash
+   git checkout master
 
 4. Build the project using Maven:
 
